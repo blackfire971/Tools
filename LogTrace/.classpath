@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="lib/app.jar"/>
+	<classpathentry kind="lib" path="lib/eppic.jar" sourcepath="D:/EPC/EPPIC-Platform-2.1.90/platform-persistence-2.1.90-sources.jar"/>
+	<classpathentry kind="lib" path="lib/eppic.orb.jar"/>
+	<classpathentry kind="lib" path="lib/dbgen.jar"/>
+	<classpathentry kind="lib" path="lib/processes.jar"/>
+	<classpathentry kind="lib" path="lib/10g_ojdbc14.jar"/>
+	<classpathentry kind="lib" path="lib/commons-validator-1.1.4.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/platform-persistence-legacy.jar" sourcepath="C:/EPC/EPPIC-Platform-2.1.90/platform-persistence-legacy-2.1.90-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jpos136e.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core.jar"/>
+	<classpathentry kind="lib" path="lib/spring.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-regexp-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/platform-security.jar"/>
+	<classpathentry kind="lib" path="lib/jta101.jar"/>
+	<classpathentry kind="lib" path="lib/platform-services-api.jar"/>
+	<classpathentry kind="lib" path="lib/platform-config.jar"/>
+	<classpathentry kind="lib" path="lib/platform-kek.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
